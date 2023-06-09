@@ -1,1 +1,1 @@
-Shell Basics Readme
+0x01. Shell, permissions project directory
